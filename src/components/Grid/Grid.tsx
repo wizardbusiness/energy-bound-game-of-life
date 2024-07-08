@@ -5,10 +5,10 @@ type GridProps = {
   size: number
 }
 
-const grid = ({ size }: GridProps) => {
+const Grid = ({ size }: GridProps) => {
   return (
     <div>grid</div>
   )
 }
 
-export default grid
+export default Grid
